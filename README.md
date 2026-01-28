@@ -43,7 +43,7 @@ MODEL_NAME=claude-3-5-haiku-20241022
 
 ### 3. 运行demo
 ```env
-python demo.py
+python example_usage.py
  ```
 输入示例
 ```env
